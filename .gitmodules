@@ -1,0 +1,6 @@
+[submodule "imdb-scraper"]
+	path = imdb-scraper
+	url = https://github.com/jainanuj7/IMDb-ratings-scraper
+[submodule "imdb_scraper"]
+	path = imdb_scraper
+	url = https://github.com/jainanuj7/IMDb-ratings-scraper
